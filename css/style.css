@@ -133,13 +133,13 @@ footer .footerIcon a {
     }
 
 .bg {
-    background-image: url('/images/bg.png');
+    background-image: url('/SecureTraceTechnologies/images/bg.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .bg.other{
-    background-image: url('/images/bg.png');
+    background-image: url('/SecureTraceTechnologies/images/bg.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover; 
