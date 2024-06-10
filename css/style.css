@@ -133,13 +133,13 @@ footer .footerIcon a {
     }
 
 .bg {
-    background-image: url("/images/—Pngtree—abstract%20purple%20background_13302131.png");
+    background-image: url("images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .bg.other{
-    background-image: url("images/—Pngtree—abstract purple background_13302131.png");
+    background-image: url("images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover; 
