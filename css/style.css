@@ -24,7 +24,7 @@ body {
     background-color: #212529 !important;
     .bg{background-image: none;  background-color: rgba(44, 44, 44, 0.575);}
     .card{  background-color: #212529 !important; color: #fff;}
-    .navbar { background-image: url(/SecureTraceTechnologies/images/bg.png);background-position: center;background-repeat: no-repeat;background-size:cover;background-color: #fff;  }
+    .navbar { background-image: url(/images/bg.png);background-position: center;background-repeat: no-repeat;background-size:cover;background-color: #fff;  }
     .card-category .card-body{background-color: #333333;
         color: #d4d4d4;}
     .card-category .card-body:hover{background-color: #000000;
@@ -79,9 +79,6 @@ footer .footerIcon a {
         background-color: white;
         color: black;
     }
-.to-top {
-    background-color: rgb(73, 73, 73);
-}
 .hidden {
     display: none;
 }
@@ -118,13 +115,13 @@ footer .footerIcon a {
         display: inline;
     }
 .bg {
-    background-image: url("/SecureTraceTechnologies/images/bg.png");
+    background-image: url("/images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .bg.other{
-    background-image: url("/SecureTraceTechnologies/images/bg.png");
+    background-image: url("/images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover; 
@@ -172,7 +169,7 @@ nav ul a {
         font-weight: 700;
     }
 .to-top {
-    background-color: rgb(24, 136, 151);
+    background-color: rgb(177, 118, 255);
     color: aliceblue;
     position: fixed;
     bottom: 20px;
@@ -346,7 +343,7 @@ form label{
 }
 .breadcrumb-custom{
     font-family: 'Montserrat Alternates', sans-serif; 
-     background-image: url('/SecureTraceTechnologies/images/2151001573.jpg');
+     background-image: url('/images/2151001573.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
@@ -372,6 +369,7 @@ form label{
     .navi{
         display: flex;
         justify-content: center;
+       
     }
     .fa-moon.show:hover,.fa-sun.show:hover {
         font-size: 25px;
@@ -379,6 +377,15 @@ form label{
     .welcome{
         padding: 0;
         margin: 0;
+    }
+    .why .card-body{
+        padding: 0 0px;
+    }
+    .why p{
+        padding: 0 20px;
+    }
+    .why .card-body img{
+        width: 130px;
     }
     .products .product-img {
         display: flex;
@@ -458,7 +465,7 @@ footer {
     width: 100%;
     font-size: 19px;
     font-weight: bolder;
-    background-image: url("/SecureTraceTechnologies/images/bg.png");
+    background-image: url("/images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover; 
@@ -517,4 +524,5 @@ footer {
         text-align: center;
         margin: 10px 0 20px 0;
         font-weight: 500;
+        padding: 0 20px;
     }
