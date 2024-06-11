@@ -24,7 +24,7 @@ body {
     background-color: #212529 !important;
     .bg{background-image: none;  background-color: rgba(44, 44, 44, 0.575);}
     .card{  background-color: #212529 !important; color: #fff;}
-    .navbar { background-image: url(/images/bg.png);background-position: center;background-repeat: no-repeat;background-size:cover;background-color: #fff;  }
+    .navbar { background-image: url(/SecureTraceTechnologies/images/bg.png);background-position: center;background-repeat: no-repeat;background-size:cover;background-color: #fff;  }
     .card-category .card-body{background-color: #333333;
         color: #d4d4d4;}
     .card-category .card-body:hover{background-color: #000000;
@@ -115,13 +115,13 @@ footer .footerIcon a {
         display: inline;
     }
 .bg {
-    background-image: url("/images/bg.png");
+    background-image: url("/SecureTraceTechnologies/images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .bg.other{
-    background-image: url("/images/bg.png");
+    background-image: url("/SecureTraceTechnologies/images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover; 
@@ -343,7 +343,7 @@ form label{
 }
 .breadcrumb-custom{
     font-family: 'Montserrat Alternates', sans-serif; 
-     background-image: url('/images/2151001573.jpg');
+     background-image: url('/SecureTraceTechnologies/images/2151001573.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
@@ -382,6 +382,7 @@ form label{
         padding: 0 0px;
     }
     .why p{
+        font-size: 18px;
         padding: 0 20px;
     }
     .why .card-body img{
@@ -465,7 +466,7 @@ footer {
     width: 100%;
     font-size: 19px;
     font-weight: bolder;
-    background-image: url("/images/bg.png");
+    background-image: url("/SecureTraceTechnologies/images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover; 
